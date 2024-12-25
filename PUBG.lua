@@ -68,10 +68,10 @@ dxkg= false
 
  
 ------------------------------------Macro coefficient-----------------------------------
----non att & stand------full att & stand-----non att & squat------full att & squat-------
+--no att & stand------full att & stand------no att & squat--------full att & squat-------
 akm_LZ1    = 1 	      akm_MZ1    = 1        akm_LD1    = 1        akm_MD1    = 1 	 
 m762_LZ1   = 1	      m762_MZ1   = 1        m762_LD1   = 1        m762_MD1   = 1	
-M41616_LZ1   = 1	      M41616_MZ1   = 1        M41616_LD1   = 1        M41616_MD1   = 1      
+M41616_LZ1   = 1      M41616_MZ1   = 1        M41616_LD1   = 1        M41616_MD1   = 1      
 ace32_LZ1  = 1 	      ace32_MZ1  = 1        ace32_LD1  = 1        ace32_MD1  = 1   
 scarl_LZ1  = 1	      scarl_MZ1  = 1.1        scarl_LD1  = 1        scarl_MD1  = 1
 g36c_LZ1   = 1	      g36c_MZ1   = 1        g36c_LD1   = 1        g36c_MD1   = 1
@@ -79,8 +79,8 @@ qbz_LZ1    = 1	      qbz_MZ1    = 1        qbz_LD1    = 1        qbz_MD1    = 1
 ump45_LZ1  = 1	      ump45_MZ1  = 1        ump45_LD1  = 1        ump45_MD1  = 1		
 uzi_LZ1    = 1	      uzi_MZ1    = 1        uzi_LD1    = 1        uzi_MD1    = 1		
 groza_LZ1  = 1	      groza_MZ1  = 1        groza_LD1  = 1        groza_MD1  = 1
-aug_LZ1    = 1.8	      aug_MZ1    = 1.7        aug_LD1    = 1.75        aug_MD1    = 1.65	
-k2_LZ1     = 1           k2_MZ1     = 1        k2_LD1    = 1        k2_MD1     = 1   
+aug_LZ1    = 1.8      aug_MZ1    = 1.7        aug_LD1    = 1.75        aug_MD1    = 1.65	
+k2_LZ1     = 1        k2_MZ1     = 1        k2_LD1    = 1        k2_MD1     = 1   
 m249_LZ1   = 1	      m249_MZ1   = 1        m249_LD1    = 1       m249_MD1   = 1
 tmx_LZ1    = 1	      tmx_MZ1    = 1        tmx_LD1    = 1        tmx_MD1    = 1	
 vkt_LZ1    = 1	      vkt_MZ1    = 1        vkt_LD1    = 1        vkt_MD1    = 1	
@@ -89,7 +89,7 @@ p90_LZ1    = 1	      p90_MZ1    = 1        p90_LD1    = 1        p90_MD1    = 1
 
  	
 ------------------------------------4X scope Macro coefficient--------------------------
----non att & stand------full att & stand-----non att & squat------full att & squat-------
+---no att & stand-----------full att & stand------------no att & squat---------full att & squat-------
 akm_LZ4    = 3.9	      akm_MZ4    = 3.92        akm_LD4    = 3.8        akm_MD4    = 3.8 	 
 m762_LZ4   = 3.75	      m762_MZ4   = 3.7         m762_LD4   = 3.8        m762_MD4   = 3.8
 M41616_LZ4   = 3.8	      M41616_MZ4   = 3.7         M41616_LD4   = 3.9        M41616_MD4   = 3.8    
@@ -98,14 +98,14 @@ scarl_LZ4  = 3.9	      scarl_MZ4  = 3.7         scarl_LD4  = 3.9        scarl_MD
 g36c_LZ4   = 3.75	      g36c_MZ4   = 3.7         g36c_LD4   = 3.7        g36c_MD4   = 3.7
 qbz_LZ4    = 3.8	      qbz_MZ4    = 3.85        qbz_LD4    = 3.9        qbz_MD4    = 3.9
 ump45_LZ4  = 3.9 	      ump45_MZ4  = 4           ump45_LD4  = 4          ump45_MD4  = 4		
-uzi_LZ4    = 1 	      uzi_MZ4    = 1           uzi_LD4    = 1          uzi_MD4    = 1		
+uzi_LZ4    = 1 	      		uzi_MZ4    = 1           uzi_LD4    = 1          uzi_MD4    = 1		
 groza_LZ4  = 3.8 	      groza_MZ4  = 3.8         groza_LD4  = 3.8        groza_MD4  = 3.8
-aug_LZ4    = 6 	      aug_MZ4    = 5         aug_LD4    = 5.5        aug_MD4    = 5	
-k2_LZ4     = 3.8        k2_MZ4     = 3.8         k2_LD4     = 3.8        k2_MD4     = 3.8   
+aug_LZ4    = 6 	      		aug_MZ4    = 5         aug_LD4    = 5.5        aug_MD4    = 5	
+k2_LZ4     = 3.8        	k2_MZ4     = 3.8         k2_LD4     = 3.8        k2_MD4     = 3.8   
 m249_LZ4   = 3.7	      m249_MZ4   = 3.7         m249_LD4   = 3.9        m249_MD4   = 3.9
-tmx_LZ4    = 4	      tmx_MZ4    = 4           tmx_LD4    = 4          tmx_MD4    = 4	
-vkt_LZ4    = 4	      vkt_MZ4    = 4           vkt_LD4    = 4          vkt_MD4    = 4	
-p90_LZ4    = 1	      p90_MZ4    = 1           p90_LD4    = 1          p90_MD4    = 1		
+tmx_LZ4    = 4	      		tmx_MZ4    = 4           tmx_LD4    = 4          tmx_MD4    = 4	
+vkt_LZ4    = 4	      		vkt_MZ4    = 4           vkt_LD4    = 4          vkt_MD4    = 4	
+p90_LZ4    = 1	      		p90_MZ4    = 1           p90_LD4    = 1          p90_MD4    = 1		
 
 
 
