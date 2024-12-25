@@ -1,6 +1,6 @@
 
 ------Note: Do not install an extended magazine on the M249, just install a quick-change magazine.
-------Note: Do not install an extended magazine on the Thompson, install a quick-change magazine, and do not use 3X scope on the Thompson.
+------Note: Do not install an extended magazine on the Tommy Gun, install a quick-change magazine, and do not use 3X scope on the Tommy Gun.
 
 
 mrkjms=false-------------open scope mode----Long press right key to open the scope changed to false, single right click to open the scope changed to true--
@@ -24,8 +24,8 @@ groza_yaqiang_key =0	         ----------Groza--------
 aug_yaqiang_key = 0	         ----------AUG----------
 k2_yaqiang_key =7	              ----------K2-----------
 m249_yaqiang_key =8 	         ----------M249---------
-tmx_yaqiang_key = 0	         ------tang mu xun------
-vkt_yaqiang_key = 0	         ------wei ke tuo-------
+tmx_yaqiang_key = 0	         ------Tommy Gun------
+vkt_yaqiang_key = 0	         ------Vector-------
 p90_yaqiang_key = 0	         -----------P90---------
 
 
@@ -45,8 +45,8 @@ groza_yaqiang_key2 = 6	          --------Groza-----------
 aug_yaqiang_key2 = 5	          ---------AUG------------
 k2_yaqiang_key2 =0	          ---------K2-------------
 m249_yaqiang_key2 = 0	          ---------M249-----------
-tmx_yaqiang_key2 = 8	          -----tang mu xun--------
-vkt_yaqiang_key2 = 11	          -----wei ke tuo---------
+tmx_yaqiang_key2 = 8	          -----Tommy Gun--------
+vkt_yaqiang_key2 = 11	          -----Vector-------------
 p90_yaqiang_key2 = 0	          ---------P90------------
 
 ------------------------
@@ -55,8 +55,8 @@ jpoffkey = 0
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
-fourmodekey = "capslock"           -- 4x scope mode
-allmodekey = "numlock"             -- full attachments key
+fourmodekey = "capslock"           -- 4x scope mode --------When it light up means enabled 4X scope mode--------
+allmodekey = "numlock"             -- full attachments key ----------When the light go out means enabled full attachments mode----------
 reminderlightkey = "scrolllock" 
 
 
