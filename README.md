@@ -6,7 +6,7 @@
 `Use at your own risk !!!`  
 `Use at your own risk !!!`  
 `Use at your own risk !!!`
-  ## Considering that some people have reported bans, it is recommended to use a new method to read macros:  
+  ## Considering that some people have reported bans, it is recommended to use a new method to load macros:  
 * ① Download and place the macro file in a location other than the C drive  
 * ② Create a new script in GHUB  
 * ③ Edit the script code to:  
